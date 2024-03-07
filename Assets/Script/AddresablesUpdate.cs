@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
@@ -16,6 +17,8 @@ public class AddresablesUpdate : MonoBehaviour
     [SerializeField] TextMeshProUGUI downloadSizeLabelB;
     
     
+    [SerializeField] TextMeshProUGUI caltalogUpdate;
+    
     [SerializeField] TextMeshProUGUI LoadABar;
     [SerializeField] TextMeshProUGUI LoadBBar;
     
@@ -29,6 +32,11 @@ public class AddresablesUpdate : MonoBehaviour
             CheckForUpdates();
         }
         
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            CatalogUpdate();
+        }
+        
         if (Input.GetKeyDown(KeyCode.A))
         {
             downloadLabelCoroutineA = StartCoroutine(DownloadLabel("A", LoadABar));
@@ -38,6 +46,26 @@ public class AddresablesUpdate : MonoBehaviour
         {
             downloadLabelCoroutineB =  StartCoroutine(DownloadLabel("B", LoadBBar));
         }
+        
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            ResetAllData();
+        }
+    }
+
+    public async void CatalogUpdate()
+    {
+        Addressables.CheckForCatalogUpdates(false).Completed += updateCheck =>
+        {
+            if (updateCheck.Status == AsyncOperationStatus.Succeeded)
+            {
+                caltalogUpdate.text = "updateCatalogCount " + updateCheck.Result.Count.ToString();
+            }
+            else
+            {
+                caltalogUpdate.text = "Failed to get download size";
+            }
+        };
     }
 
     public async void CheckForUpdates()
@@ -66,15 +94,26 @@ public class AddresablesUpdate : MonoBehaviour
             }
         };
 
+        
+    }
+    
+    void ResetAllData()
+    {
+        string path = Application.persistentDataPath;
 
-      // List<string> updateCheck = await Addressables.CheckForCatalogUpdates(false).Task;
-      // updateCatalogCount.text = "updateCatalogCount " + updateCheck.Count.ToString();
+        DirectoryInfo directory = new DirectoryInfo(path);
 
-      // if (updateCheck.Count > 0)
-      // {
-      //     List<IResourceLocator> updateDownload = await Addressables.UpdateCatalogs(updateCheck, false).Task;
-      //     updateAddressablesCount.text = "updateAddressablesCount " + updateDownload.Count.ToString();
-      // }
+        foreach (FileInfo file in directory.GetFiles())
+        {
+            file.Delete(); 
+        }
+
+        foreach (DirectoryInfo dir in directory.GetDirectories())
+        {
+            dir.Delete(true); 
+        }
+
+        Debug.Log("Wszystkie dane zostały usunięte.");
     }
 
     IEnumerator DownloadLabel(string label, TextMeshProUGUI loadBar)

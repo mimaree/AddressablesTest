@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 782d9f53503e1ef44bd0e56e5f0e3756
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 7a12a96f78aef8a7bab7e157c2501e1a
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -62,7 +62,7 @@ MonoBehaviour:
       - m_Id: dfdb4982998a1fd41b87358845a7a91a
         m_Value: ServerData/[BuildTarget]
       - m_Id: 1a272f876d8a0934fa01ee1d063b3d7f
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://3956c2d1-63fd-48bd-bbce-bc4a282fbb3d.client-api.unity3dusercontent.com/client_api/v1/environments/production/buckets/53d221ea-1eb3-4e97-82e2-a5064f864e2a/release_by_badge/latest/entry_by_path/content/?path=
       - m_Id: 0c45bae6394b90343b6a346aaa6ef79d
         m_Value: ServerData/[BuildTarget]
       - m_Id: b890354dce49a23438a04996eaaa29b5
