@@ -1,0 +1,32 @@
+
+Tcsharpsquid:S3878Ò"8Remove this array creation and simply pass the elements.(Ğª
+Ycsharpsquid:S1121‰"6Extract the assignment of 'prov' from this expression.(öŠ½–üÿÿÿÿ
+Vcsharpsquid:S1121Ò":Extract the assignment of 'provType' from this expression.(Ğª
+pcsharpsquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ËŒï½
+Icsharpsquid:S2933¨"&Make 'm_ResourceProviders' 'readonly'.(’Ëóìüÿÿÿÿ
+Fcsharpsquid:S2933Â"(Make 'm_AssetOperationCache' 'readonly'.(™—ãõ
+Qcsharpsquid:S2933Ã".Make 'm_TrackedInstanceOperations' 'readonly'.(èçşªøÿÿÿÿ
+Lcsharpsquid:S2933Å".Make 'm_DeferredCompleteCallbacks' 'readonly'.(¨ÿÀå
+Gcsharpsquid:S2933Æ")Make 'm_AssetBundleProviders' 'readonly'.(ŒÍÿ¿
+Jcsharpsquid:S2933Ó"'Make 'm_ReleaseOpNonCached' 'readonly'.(‡¤Æòıÿÿÿÿ
+Gcsharpsquid:S2933Ô"$Make 'm_ReleaseOpCached' 'readonly'.(İ¹ˆïüÿÿÿÿ
+Dcsharpsquid:S2933Õ"&Make 'm_ReleaseInstanceOp' 'readonly'.(»Ÿœ
+Lcsharpsquid:S2933“"/Make 'm_ProviderOperationTypeCache' 'readonly'.(ö¸¾U
+Acsharpsquid:S2219€"Use the 'is' operator instead.(É´•¨ÿÿÿÿÿ
+hcsharpsquid:S3881"KFix this implementation of 'IDisposable' to conform to the dispose pattern.(ùœ²
+‰csharpsquid:S3427¹"fThis method signature overlaps the one defined on line 920, the default parameter value can't be used.(ãşû­úÿÿÿÿ
+‰csharpsquid:S3427Ê"fThis method signature overlaps the one defined on line 936, the default parameter value can't be used.(ûŒÔ‡øÿÿÿÿ
+{csharpsquid:S4144È"]Update this method so that its implementation is not identical to 'ClearDiagnosticsCallback'.(çÖÉ
+Xcsharpsquid:S1133¾"5Do not forget to remove this deprecated code someday.(—»•ıÿÿÿÿ
+Scsharpsquid:S1133Ş"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Ş"Add an explanation.(î¢‰
+jcsharpsquid:S927è"NRename parameter 'deps' to 'dependencies' to match the base class declaration.(Äş×[
+gcsharpsquid:S2292ü"DMake this an auto-implemented property and remove its backing field.(çÜ¼ƒşÿÿÿÿ
+^csharpsquid:S4201i"ARemove this unnecessary null check; 'is' returns false for nulls.(¼â÷Û
+dcsharpsquid:S112­"B'System.NullReferenceException' should not be thrown by user code.(«€¢àÿÿÿÿÿ
+dcsharpsquid:S112¾"B'System.NullReferenceException' should not be thrown by user code.(«€¢àÿÿÿÿÿ
+dcsharpsquid:S112Ì"B'System.NullReferenceException' should not be thrown by user code.(«€¢àÿÿÿÿÿ
+dcsharpsquid:S112Ü"B'System.NullReferenceException' should not be thrown by user code.(‰®¶ûşÿÿÿÿ
+Wcsharpsquid:S112«	"5'System.Exception' should not be thrown by user code.(æôã ıÿÿÿÿ
+Fcsharpsquid:S1144¿"(Remove the unused private method 'Init'.(©ëà‹
+<csharpsquid:S125Í"Remove this commented out code.(Ëİÿ…

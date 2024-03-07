@@ -1,0 +1,15 @@
+
+?csharpsquid:S2933Ñ"Make 'm_Version' 'readonly'.(ı„œıùÿÿÿÿ
+>csharpsquid:S2933"Make 'm_Version' 'readonly'.(ı„œıùÿÿÿÿ
+Zcsharpsquid:S2328Á"7Refactor 'GetHashCode' to not reference mutable fields.(û§ğèşÿÿÿÿ
+Zcsharpsquid:S2328¬"7Refactor 'GetHashCode' to not reference mutable fields.(û§ğèşÿÿÿÿ
+\csharpsquid:S4136+"?All 'AsyncOperationHandle' method overloads should be adjacent.(†üÁá
+ncsharpsquid:S1206Â"PThis struct overrides 'GetHashCode' and should therefore also override 'Equals'.(Ûü­¾
+mcsharpsquid:S1206"PThis struct overrides 'GetHashCode' and should therefore also override 'Equals'.(‘ìÁ
+}csharpsquid:S2372Ë"`Remove the exception throwing from this property getter, or refactor the property into a method.(Ú¤Š
+}csharpsquid:S2372Õ"`Remove the exception throwing from this property getter, or refactor the property into a method.(Ú¤Š
+bcsharpsquid:S2292Ô"DMake this an auto-implemented property and remove its backing field.(½ğÏü
+acsharpsquid:S2292"DMake this an auto-implemented property and remove its backing field.(½ğÏü
+acsharpsquid:S2292"DMake this an auto-implemented property and remove its backing field.(—Êõ‡
+Qcsharpsquid:S112Ë"5'System.Exception' should not be thrown by user code.(Ú¤Š
+Qcsharpsquid:S112Õ"5'System.Exception' should not be thrown by user code.(Ú¤Š

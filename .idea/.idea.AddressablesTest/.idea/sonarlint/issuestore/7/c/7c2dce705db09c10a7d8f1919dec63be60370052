@@ -1,0 +1,18 @@
+
+Rcsharpsquid:S1133,"5Do not forget to remove this deprecated code someday.(î¢‰
+0csharpsquid:S1123,"Add an explanation.(î¢‰
+Scsharpsquid:S1133ˆ"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123ˆ"Add an explanation.(î¢‰
+Scsharpsquid:S1133–"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123–"Add an explanation.(î¢‰
+Scsharpsquid:S1133§"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123§"Add an explanation.(î¢‰
+Scsharpsquid:S1133·"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123·"Add an explanation.(î¢‰
+qcsharpsquid:S927²"ORename parameter 'path' to 'mainAssetPath' to match the base class declaration.(š»¥úúÿÿÿÿ
+qcsharpsquid:S927"ORename parameter 'path' to 'mainAssetPath' to match the base class declaration.(š»¥úúÿÿÿÿ
+kcsharpsquid:S927M"ORename parameter 'mainAssetPath' to 'path' to match the base class declaration.(½®Š¼
+\csharpsquid:S1144÷"9Remove the unused private method 'CreateFailedOperation'.(ËÕşÿÿÿÿ
+Wcsharpsquid:S4136­"9All 'AssetReference' method overloads should be adjacent.(Ç—´Ê
+Jcsharpsquid:S1172£",Remove this unused method parameter 'state'.(›¸›ˆ
+hcsharpsquid:S2223Œ"JChange the visibility of 's_PathToTypes' or make it 'const' or 'readonly'.(Ä«¼¢

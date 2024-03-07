@@ -1,0 +1,82 @@
+
+pcsharpsquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ŸïœÎ
+>csharpsquid:S2933s"!Make 'm_Addressables' 'readonly'.(ô²ë§
+gcsharpsquid:S1104Õ"DMake this field 'private' and encapsulate it in a 'public' property.(¨óÊôüÿÿÿÿ
+gcsharpsquid:S1104Ú"DMake this field 'private' and encapsulate it in a 'public' property.(ìêçøÿÿÿÿ
+csharpsquid:S3925Z"bUpdate this implementation of 'ISerializable' to conform to the recommended serialization pattern.(Â«¯ü
+Zcsharpsquid:S4136o">All 'InvalidKeyException' method overloads should be adjacent.(¹£“5
+ccsharpsquid:S4136”"@All 'LoadResourceLocations' method overloads should be adjacent.(èà¥íıÿÿÿÿ
+ccsharpsquid:S4136ª"EAll 'LoadResourceLocationsAsync' method overloads should be adjacent.(•Ÿá
+Scsharpsquid:S4136ï"5All 'LoadAssets' method overloads should be adjacent.(ø¡
+Wcsharpsquid:S4136Œ	":All 'LoadAssetsAsync' method overloads should be adjacent.(£„ËK
+Scsharpsquid:S1133À"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123À"Add an explanation.(î¢‰
+Scsharpsquid:S1133É"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123É"Add an explanation.(î¢‰
+Scsharpsquid:S1133Œ"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Œ"Add an explanation.(î¢‰
+Scsharpsquid:S1133Ë"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Ë"Add an explanation.(î¢‰
+Scsharpsquid:S1133Ù"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Ù"Add an explanation.(î¢‰
+Scsharpsquid:S1133“"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123“"Add an explanation.(î¢‰
+Scsharpsquid:S1133©"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123©"Add an explanation.(î¢‰
+Scsharpsquid:S1133Ì"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Ì"Add an explanation.(î¢‰
+Scsharpsquid:S1133î"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123î"Add an explanation.(î¢‰
+Scsharpsquid:S1133Ä	"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Ä	"Add an explanation.(î¢‰
+Scsharpsquid:S1133æ	"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123æ	"Add an explanation.(î¢‰
+Scsharpsquid:S1133¢
+"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123¢
+"Add an explanation.(î¢‰
+Scsharpsquid:S1133à
+"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123à
+"Add an explanation.(î¢‰
+Scsharpsquid:S1133õ"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123õ"Add an explanation.(î¢‰
+Scsharpsquid:S1133š"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123š"Add an explanation.(î¢‰
+Scsharpsquid:S1133²"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123²"Add an explanation.(î¢‰
+Scsharpsquid:S1133è"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123è"Add an explanation.(î¢‰
+Scsharpsquid:S1133®"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123®"Add an explanation.(î¢‰
+Scsharpsquid:S1133€"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123€"Add an explanation.(î¢‰
+Scsharpsquid:S1133Î"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Î"Add an explanation.(î¢‰
+Scsharpsquid:S1133ß"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123ß"Add an explanation.(î¢‰
+Scsharpsquid:S1133ï"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123ï"Add an explanation.(î¢‰
+Scsharpsquid:S1133€"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123€"Add an explanation.(î¢‰
+Scsharpsquid:S1133"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123"Add an explanation.(î¢‰
+Scsharpsquid:S1133"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123"Add an explanation.(î¢‰
+Scsharpsquid:S1133”"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123”"Add an explanation.(î¢‰
+Scsharpsquid:S1133¤"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123¤"Add an explanation.(î¢‰
+Scsharpsquid:S1133î"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123î"Add an explanation.(î¢‰
+Scsharpsquid:S1133ı"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123ı"Add an explanation.(î¢‰
+Scsharpsquid:S1133Œ"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123Œ"Add an explanation.(î¢‰
+Scsharpsquid:S1133œ"5Do not forget to remove this deprecated code someday.(î¢‰
+1csharpsquid:S1123œ"Add an explanation.(î¢‰
+xcsharpsquid:S2223·"UChange the visibility of 'reinitializeAddressables' or make it 'const' or 'readonly'.(ŞÙ¦‹úÿÿÿÿ
+vcsharpsquid:S2223¸"SChange the visibility of 'm_AddressablesInstance' or make it 'const' or 'readonly'.(‡¨£Âüÿÿÿÿ
+kcsharpsquid:S2223Õ"HChange the visibility of 'LibraryPath' or make it 'const' or 'readonly'.(¨óÊôüÿÿÿÿ
+ocsharpsquid:S2223Ú"LChange the visibility of 'BuildReportPath' or make it 'const' or 'readonly'.(ìêçøÿÿÿÿ
+[csharpsquid:S2259ÿ"8'messageBuilder' is null on at least one execution path.(¡ã•Âşÿÿÿÿ

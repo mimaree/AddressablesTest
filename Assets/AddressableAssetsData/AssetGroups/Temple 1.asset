@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Temple 1
+  m_EditorClassIdentifier: 
+  m_GroupName: Temple 1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 782d9f53503e1ef44bd0e56e5f0e3756
+  m_SerializeEntries:
+  - m_GUID: 3234613cc0e2b1b45a779a814546240f
+    m_Address: Assets/Art/Cartoon Temple Building Kit/Prefabs/Blocks Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03e275d8037d7494ba230da8ab675480
+    m_Address: Assets/Art/Prefab/Temple 5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6d1816c5f01897429c2f093cdff33f1
+    m_Address: Assets/Art/Prefab/Temple 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cab5303221252448817bb4173d6bd01
+    m_Address: Assets/Art/Prefab/Temple 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dcbb68200acea24885209a33ab9aec3
+    m_Address: Assets/Art/Prefab/KWADRAT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4f1f7b12c654d944ae8e56617e0cb07
+    m_Address: Assets/Art/Prefab/Temple 3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 858e7500d8b1ce548a481c24fff0812a
+    m_Address: Assets/Art/Prefab/A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - A
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e091f7801565624aaec3bce968faec1
+    m_Address: Assets/Art/Prefab/M_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - A
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 164c87e2818ca6f419a2a2378003a894
+    m_Address: Assets/Scenes/Temple 4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1de530370a780bc4085a2c1559d49147, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0d8425ea1bab9434da249a113fd3bda1, type: 2}
+    - {fileID: 11400000, guid: 6f4c71dec7e20a84a89b48327b04a722, type: 2}

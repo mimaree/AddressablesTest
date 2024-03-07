@@ -1,0 +1,32 @@
+
+pcsharpsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ûÿ¥ğ
+pcsharpsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ë°˜©
+ucsharpsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ĞŒ¨Ãùÿÿÿÿ
+pcsharpsquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Øı¥
+?csharpsquid:S2933E"#Make 'm_resultToHandle' 'readonly'.(ºÒÙ*
+Mcsharpsquid:S1066”"/Merge this if statement with the enclosing one.(µêŠ
+ncsharpsquid:S3267“"PLoop should be simplified by calling Select(locatorInfo => locatorInfo.Locator))(ç±²µ
+ncsharpsquid:S3267È"PLoop should be simplified by calling Select(locatorInfo => locatorInfo.Locator))(ç±²µ
+ncsharpsquid:S3267â	"PLoop should be simplified by calling Select(locatorInfo => locatorInfo.Locator))(ç±²µ
+¢csharpsquid:S3427´
+"This method signature overlaps the one defined on line 1327, the default parameter value can only be used with named arguments.(Õ´¶§üÿÿÿÿ
+Wcsharpsquid:S4136¨"9All 'LoadAssetAsync' method overloads should be adjacent.(Å«˜»
+lcsharpsquid:S4136¥"IAll 'LoadResourceLocationsWithChain' method overloads should be adjacent.(ÉÜæûşÿÿÿÿ
+hcsharpsquid:S4136ª"EAll 'LoadResourceLocationsAsync' method overloads should be adjacent.(åî™‰ùÿÿÿÿ
+]csharpsquid:S4136Ç":All 'LoadAssetsAsync' method overloads should be adjacent.(©×¸Šûÿÿÿÿ
+\csharpsquid:S4136Ï">All 'LoadAssetsWithChain' method overloads should be adjacent.(®Õğò
+`csharpsquid:S4136Æ"CAll 'GetDownloadSizeWithChain' method overloads should be adjacent.(Á×ƒy
+jcsharpsquid:S4136Æ"MAll 'DownloadDependenciesAsyncWithChain' method overloads should be adjacent.(ôï¸ 
+gcsharpsquid:S4136é"DAll 'DownloadDependenciesAsync' method overloads should be adjacent.(¼ˆƒ…ûÿÿÿÿ
+Ycsharpsquid:S4136¾	";All 'InstantiateAsync' method overloads should be adjacent.( ŞÄ‰
+]csharpsquid:S4136Ò	"?All 'InstantiateWithChain' method overloads should be adjacent.(ÒÅ’š
+xcsharpsquid:S1450Ü"ZRemove the field 'm_locations' and declare it as a local variable in the relevant methods.(£»Õù
+xcsharpsquid:S1450‚"ZRemove the field 'm_locations' and declare it as a local variable in the relevant methods.(£»Õù
+acsharpsquid:S22926"DMake this an auto-implemented property and remove its backing field.(››ÛÚ
+Ucsharpsquid:S1905ƒ"2Remove this unnecessary cast to 'UnityWebRequest'.(‰©™úúÿÿÿÿ
+bcsharpsquid:S2589¡"DChange this condition so that it does not always evaluate to 'True'.(‡¦â®
+bcsharpsquid:S2589Å"DChange this condition so that it does not always evaluate to 'True'.(‡¦â®
+Rcsharpsquid:S1144"/Remove the unused private method 'TrackHandle'.(ˆµıÿÿÿÿ
+Ycsharpsquid:S1144Æ"<Remove the unused private method 'GetDownloadSizeWithChain'.(Á×ƒy
+Ycsharpsquid:S3011¡"6Make sure that this accessibility bypass is safe here.(«Ú˜üÿÿÿÿ
+pcsharpsquid:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(˜â¬Ó
